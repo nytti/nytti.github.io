@@ -1,0 +1,6 @@
+export const nyt = {
+  apiKey: 'YOUR-NYT-APIKEY',
+  apiUrl: 'https://api.nytimes.com/svc',
+  imageUrl: 'https://nytimes.com/',
+  defaultSearch: 'fashion',
+}
