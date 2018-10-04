@@ -21,3 +21,5 @@ yarn.lock
 
 # Cypress
 *.mp4
+screenshots
+videos

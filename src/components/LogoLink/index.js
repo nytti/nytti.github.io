@@ -23,7 +23,7 @@ class LogoLink extends Component {
   render() {
     const { classes } = this.props
     return (
-      <Typography className={classes.logo}>
+      <Typography>
         <Link to="/" className={classes.link}>
           <Logo />
         </Link>
